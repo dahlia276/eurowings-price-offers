@@ -1,6 +1,6 @@
 import express from 'express';
 import cors from 'cors';
-import mockData from './mockData.json';
+import mockData from './mockData.json' assert { type: 'json' };
 
 const app = express();
 app.use(cors());
