@@ -1,0 +1,209 @@
+{
+  "offers": [
+    {
+      "id": "offer-1",
+      "origin": {
+        "code": "DUS",
+        "name": "Düsseldorf"
+      },
+      "destination": {
+        "code": "PMI",
+        "name": "Palma de Mallorca"
+      },
+      "price": {
+        "amount": 49.99,
+        "currency": "EUR"
+      },
+      "departureDate": "2026-03-15",
+      "returnDate": "2026-03-22"
+    },
+    {
+      "id": "offer-2",
+      "origin": {
+        "code": "CGN",
+        "name": "Cologne"
+      },
+      "destination": {
+        "code": "BCN",
+        "name": "Barcelona"
+      },
+      "price": {
+        "amount": 79.99,
+        "currency": "EUR"
+      },
+      "departureDate": "2026-04-10",
+      "returnDate": "2026-04-17"
+    },
+    {
+      "id": "offer-3",
+      "origin": {
+        "code": "HAM",
+        "name": "Hamburg"
+      },
+      "destination": {
+        "code": "ALC",
+        "name": "Alicante"
+      },
+      "price": {
+        "amount": 59.99,
+        "currency": "EUR"
+      },
+      "departureDate": "2026-05-01",
+      "returnDate": "2026-05-08"
+    },
+    {
+      "id": "offer-4",
+      "origin": {
+        "code": "STR",
+        "name": "Stuttgart"
+      },
+      "destination": {
+        "code": "AGP",
+        "name": "Málaga"
+      },
+      "price": {
+        "amount": 69.99,
+        "currency": "EUR"
+      },
+      "departureDate": "2026-06-12",
+      "returnDate": "2026-06-19"
+    },
+    {
+      "id": "offer-5",
+      "origin": {
+        "code": "BER",
+        "name": "Berlin"
+      },
+      "destination": {
+        "code": "FAO",
+        "name": "Faro"
+      },
+      "price": {
+        "amount": 89.99,
+        "currency": "EUR"
+      },
+      "departureDate": "2026-07-05",
+      "returnDate": "2026-07-12"
+    },
+    {
+      "id": "offer-6",
+      "origin": {
+        "code": "DUS",
+        "name": "Düsseldorf"
+      },
+      "destination": {
+        "code": "LPA",
+        "name": "Gran Canaria"
+      },
+      "price": {
+        "amount": 129.99,
+        "currency": "EUR"
+      },
+      "departureDate": "2026-08-20",
+      "returnDate": "2026-08-27"
+    },
+    {
+      "id": "offer-7",
+      "origin": {
+        "code": "CGN",
+        "name": "Cologne"
+      },
+      "destination": {
+        "code": "HER",
+        "name": "Heraklion"
+      },
+      "price": {
+        "amount": 99.99,
+        "currency": "EUR"
+      },
+      "departureDate": "2026-09-03",
+      "returnDate": "2026-09-10"
+    },
+    {
+      "id": "offer-8",
+      "origin": {
+        "code": "HAM",
+        "name": "Hamburg"
+      },
+      "destination": {
+        "code": "PMI",
+        "name": "Palma de Mallorca"
+      },
+      "price": {
+        "amount": 54.99,
+        "currency": "EUR"
+      },
+      "departureDate": "2026-03-28",
+      "returnDate": "2026-04-04"
+    },
+    {
+      "id": "offer-9",
+      "origin": {
+        "code": "STR",
+        "name": "Stuttgart"
+      },
+      "destination": {
+        "code": "BCN",
+        "name": "Barcelona"
+      },
+      "price": {
+        "amount": 74.99,
+        "currency": "EUR"
+      },
+      "departureDate": "2026-05-15",
+      "returnDate": "2026-05-22"
+    },
+    {
+      "id": "offer-10",
+      "origin": {
+        "code": "BER",
+        "name": "Berlin"
+      },
+      "destination": {
+        "code": "ALC",
+        "name": "Alicante"
+      },
+      "price": {
+        "amount": 64.99,
+        "currency": "EUR"
+      },
+      "departureDate": "2026-06-25",
+      "returnDate": "2026-07-02"
+    },
+    {
+      "id": "offer-11",
+      "origin": {
+        "code": "DUS",
+        "name": "Düsseldorf"
+      },
+      "destination": {
+        "code": "AGP",
+        "name": "Málaga"
+      },
+      "price": {
+        "amount": 72.99,
+        "currency": "EUR"
+      },
+      "departureDate": "2026-04-18",
+      "returnDate": "2026-04-25"
+    },
+    {
+      "id": "offer-12",
+      "origin": {
+        "code": "CGN",
+        "name": "Cologne"
+      },
+      "destination": {
+        "code": "FAO",
+        "name": "Faro"
+      },
+      "price": {
+        "amount": 84.99,
+        "currency": "EUR"
+      },
+      "departureDate": "2026-07-10",
+      "returnDate": "2026-07-17"
+    }
+  ],
+  "total": 12
+}
