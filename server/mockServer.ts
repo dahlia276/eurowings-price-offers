@@ -28,7 +28,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const mockOffers: PriceOffer[] = [
+export const mockOffers: PriceOffer[] = [
   {
     id: "1",
     origin: { city: "Berlin", code: "BER" },
